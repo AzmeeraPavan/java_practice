@@ -1,3 +1,5 @@
+//check bigger number
+
 import java.util.Scanner;
 
 public class biggernumber {

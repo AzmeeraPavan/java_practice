@@ -1,3 +1,5 @@
+// code check uppercase or lower case
+
 import java.util.Scanner;
 
 public class Uppercaseorlowercaseif {
